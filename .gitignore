@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+backend/venv/
+.env
+*.egg-info/
+.installed.cfg
+*.egg
+
+# JavaScript/React
+node_modules/
+frontend/node_modules/
+frontend/node_modules/.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+build/
+coverage/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# SQLite
+*.sqlite
+*.sqlite3
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Project specific
+logs/
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+.hypothesis/
+
+# React/Node.js
+build/
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# SQLite
+*.sqlite
+*.sqlite3
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+database/careteam.db
+
+# Additional project specific entries
+.env
+.flaskenv
+instance/
+.webassets-cache
+.coverage
+htmlcov/
+.pytest_cache/
+.env
+log/
+tmp/
+temp/ 
