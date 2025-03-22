@@ -111,4 +111,3 @@ The application uses SQLite for development, which requires no additional setup.
 For production, it's recommended to use a more robust database like PostgreSQL. 
 
 
-git test
